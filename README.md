@@ -60,7 +60,7 @@ ResearchAnswer(answer, citations, confidence, contradictions)
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rag-research-assistant
+git clone https://github.com/racharajeshAI/rag-research-assistant
 cd rag-research-assistant
 pip install -r requirements.txt
 

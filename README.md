@@ -25,11 +25,6 @@ I was working on a research project that required answering complex questions ac
 
 ---
 
-## Demo
-
-> *(Screenshot of Gradio UI showing answer with citations panel)*
-
----
 
 ## Architecture
 

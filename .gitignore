@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+*.db
+data/raw/
+data/chroma_db/
+data/sample_streams/
+models/*.pkl
+results/*.json
+.DS_Store
+*.log

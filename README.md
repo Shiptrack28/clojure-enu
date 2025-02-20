@@ -4,6 +4,8 @@ Basic RAG gives you an answer but no way to know how confident to be in it or wh
 
 ![CLI demo](cli_demo.png)
 
+
+
 I was working on a research project that required answering complex questions across dozens of papers, and basic semantic search kept returning irrelevant or contradicting sources. I wanted something that would show me exactly which documents it was using, flag contradictions, and give me a confidence score I could actually trust.
 
 

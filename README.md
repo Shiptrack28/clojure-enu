@@ -1,4 +1,6 @@
 # rag-research-assistant
+Basic RAG gives you an answer but no way to know how confident to be in it or which sources actually supported the claim. I built this for research use cases where you need citations, a confidence score, and a warning when your sources are contradicting each other. The multi-query expansion also helps a lot with recall on complex questions that a single embedding does not capture well.
+
 I was working on a research project that required answering complex questions across dozens of papers, and basic semantic search kept returning irrelevant or contradicting sources. I wanted something that would show me exactly which documents it was using, flag contradictions, and give me a confidence score I could actually trust.
 
 

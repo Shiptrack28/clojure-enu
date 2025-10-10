@@ -1,4 +1,4 @@
-name: deploy phxpanda
+name: deploy sydneyspears
 
 on:
   push:
